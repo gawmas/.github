@@ -1,2 +1,2 @@
-# .github
-gawmas home
+# Documentation for GAWMAS
+`<coming soon...>`
